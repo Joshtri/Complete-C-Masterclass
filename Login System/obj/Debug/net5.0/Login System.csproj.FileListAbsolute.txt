@@ -1,0 +1,16 @@
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Login System\obj\Debug\net5.0\Login System.csproj.AssemblyReference.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Login System\obj\Debug\net5.0\Login System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Login System\obj\Debug\net5.0\Login System.AssemblyInfoInputs.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Login System\obj\Debug\net5.0\Login System.AssemblyInfo.cs
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Login System\obj\Debug\net5.0\Login System.csproj.CoreCompileInputs.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Login System\bin\Debug\net5.0\Login System.exe
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Login System\bin\Debug\net5.0\Login System.deps.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Login System\bin\Debug\net5.0\Login System.runtimeconfig.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Login System\bin\Debug\net5.0\Login System.runtimeconfig.dev.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Login System\bin\Debug\net5.0\Login System.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Login System\bin\Debug\net5.0\Login System.pdb
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Login System\obj\Debug\net5.0\Login System.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Login System\obj\Debug\net5.0\refint\Login System.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Login System\obj\Debug\net5.0\Login System.pdb
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Login System\obj\Debug\net5.0\Login System.genruntimeconfig.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Login System\obj\Debug\net5.0\ref\Login System.dll

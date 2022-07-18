@@ -1,0 +1,16 @@
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Try Catch Exceptions\bin\Debug\net5.0\Try Catch Exceptions.exe
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Try Catch Exceptions\bin\Debug\net5.0\Try Catch Exceptions.deps.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Try Catch Exceptions\bin\Debug\net5.0\Try Catch Exceptions.runtimeconfig.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Try Catch Exceptions\bin\Debug\net5.0\Try Catch Exceptions.runtimeconfig.dev.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Try Catch Exceptions\bin\Debug\net5.0\Try Catch Exceptions.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Try Catch Exceptions\bin\Debug\net5.0\Try Catch Exceptions.pdb
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Try Catch Exceptions\obj\Debug\net5.0\Try Catch Exceptions.csproj.AssemblyReference.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Try Catch Exceptions\obj\Debug\net5.0\Try Catch Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Try Catch Exceptions\obj\Debug\net5.0\Try Catch Exceptions.AssemblyInfoInputs.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Try Catch Exceptions\obj\Debug\net5.0\Try Catch Exceptions.AssemblyInfo.cs
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Try Catch Exceptions\obj\Debug\net5.0\Try Catch Exceptions.csproj.CoreCompileInputs.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Try Catch Exceptions\obj\Debug\net5.0\Try Catch Exceptions.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Try Catch Exceptions\obj\Debug\net5.0\refint\Try Catch Exceptions.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Try Catch Exceptions\obj\Debug\net5.0\Try Catch Exceptions.pdb
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Try Catch Exceptions\obj\Debug\net5.0\Try Catch Exceptions.genruntimeconfig.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Try Catch Exceptions\obj\Debug\net5.0\ref\Try Catch Exceptions.dll

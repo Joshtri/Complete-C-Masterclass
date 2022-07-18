@@ -1,0 +1,16 @@
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Operators\bin\Debug\net5.0\Operators.exe
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Operators\bin\Debug\net5.0\Operators.deps.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Operators\bin\Debug\net5.0\Operators.runtimeconfig.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Operators\bin\Debug\net5.0\Operators.runtimeconfig.dev.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Operators\bin\Debug\net5.0\Operators.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Operators\bin\Debug\net5.0\Operators.pdb
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Operators\obj\Debug\net5.0\Operators.csproj.AssemblyReference.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Operators\obj\Debug\net5.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Operators\obj\Debug\net5.0\Operators.AssemblyInfoInputs.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Operators\obj\Debug\net5.0\Operators.AssemblyInfo.cs
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Operators\obj\Debug\net5.0\Operators.csproj.CoreCompileInputs.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Operators\obj\Debug\net5.0\Operators.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Operators\obj\Debug\net5.0\refint\Operators.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Operators\obj\Debug\net5.0\Operators.pdb
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Operators\obj\Debug\net5.0\Operators.genruntimeconfig.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Operators\obj\Debug\net5.0\ref\Operators.dll

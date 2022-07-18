@@ -1,0 +1,16 @@
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Functions and How To Save Time\bin\Debug\net5.0\Functions and How To Save Time.exe
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Functions and How To Save Time\bin\Debug\net5.0\Functions and How To Save Time.deps.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Functions and How To Save Time\bin\Debug\net5.0\Functions and How To Save Time.runtimeconfig.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Functions and How To Save Time\bin\Debug\net5.0\Functions and How To Save Time.runtimeconfig.dev.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Functions and How To Save Time\bin\Debug\net5.0\Functions and How To Save Time.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Functions and How To Save Time\bin\Debug\net5.0\Functions and How To Save Time.pdb
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Functions and How To Save Time\obj\Debug\net5.0\Functions and How To Save Time.csproj.AssemblyReference.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Functions and How To Save Time\obj\Debug\net5.0\Functions and How To Save Time.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Functions and How To Save Time\obj\Debug\net5.0\Functions and How To Save Time.AssemblyInfoInputs.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Functions and How To Save Time\obj\Debug\net5.0\Functions and How To Save Time.AssemblyInfo.cs
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Functions and How To Save Time\obj\Debug\net5.0\Functions and How To Save Time.csproj.CoreCompileInputs.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Functions and How To Save Time\obj\Debug\net5.0\Functions and How To Save Time.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Functions and How To Save Time\obj\Debug\net5.0\refint\Functions and How To Save Time.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Functions and How To Save Time\obj\Debug\net5.0\Functions and How To Save Time.pdb
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Functions and How To Save Time\obj\Debug\net5.0\Functions and How To Save Time.genruntimeconfig.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Functions and How To Save Time\obj\Debug\net5.0\ref\Functions and How To Save Time.dll

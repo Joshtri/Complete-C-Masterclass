@@ -1,0 +1,16 @@
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Datatypes and Variables\bin\Debug\net5.0\Datatypes and Variables.exe
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Datatypes and Variables\bin\Debug\net5.0\Datatypes and Variables.deps.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Datatypes and Variables\bin\Debug\net5.0\Datatypes and Variables.runtimeconfig.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Datatypes and Variables\bin\Debug\net5.0\Datatypes and Variables.runtimeconfig.dev.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Datatypes and Variables\bin\Debug\net5.0\Datatypes and Variables.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Datatypes and Variables\bin\Debug\net5.0\Datatypes and Variables.pdb
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Datatypes and Variables\obj\Debug\net5.0\Datatypes and Variables.csproj.AssemblyReference.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Datatypes and Variables\obj\Debug\net5.0\Datatypes and Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Datatypes and Variables\obj\Debug\net5.0\Datatypes and Variables.AssemblyInfoInputs.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Datatypes and Variables\obj\Debug\net5.0\Datatypes and Variables.AssemblyInfo.cs
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Datatypes and Variables\obj\Debug\net5.0\Datatypes and Variables.csproj.CoreCompileInputs.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Datatypes and Variables\obj\Debug\net5.0\Datatypes and Variables.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Datatypes and Variables\obj\Debug\net5.0\refint\Datatypes and Variables.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Datatypes and Variables\obj\Debug\net5.0\Datatypes and Variables.pdb
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Datatypes and Variables\obj\Debug\net5.0\Datatypes and Variables.genruntimeconfig.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Datatypes and Variables\obj\Debug\net5.0\ref\Datatypes and Variables.dll

@@ -1,0 +1,16 @@
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Making Decisions\bin\Debug\net5.0\Making Decisions.exe
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Making Decisions\bin\Debug\net5.0\Making Decisions.deps.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Making Decisions\bin\Debug\net5.0\Making Decisions.runtimeconfig.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Making Decisions\bin\Debug\net5.0\Making Decisions.runtimeconfig.dev.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Making Decisions\bin\Debug\net5.0\Making Decisions.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Making Decisions\bin\Debug\net5.0\Making Decisions.pdb
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Making Decisions\obj\Debug\net5.0\Making Decisions.csproj.AssemblyReference.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Making Decisions\obj\Debug\net5.0\Making Decisions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Making Decisions\obj\Debug\net5.0\Making Decisions.AssemblyInfoInputs.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Making Decisions\obj\Debug\net5.0\Making Decisions.AssemblyInfo.cs
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Making Decisions\obj\Debug\net5.0\Making Decisions.csproj.CoreCompileInputs.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Making Decisions\obj\Debug\net5.0\Making Decisions.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Making Decisions\obj\Debug\net5.0\refint\Making Decisions.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Making Decisions\obj\Debug\net5.0\Making Decisions.pdb
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Making Decisions\obj\Debug\net5.0\Making Decisions.genruntimeconfig.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Making Decisions\obj\Debug\net5.0\ref\Making Decisions.dll
