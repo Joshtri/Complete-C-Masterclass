@@ -1,0 +1,16 @@
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Enhanced if Statement- Ternary Operator\bin\Debug\net5.0\Enhanced if Statement- Ternary Operator.exe
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Enhanced if Statement- Ternary Operator\bin\Debug\net5.0\Enhanced if Statement- Ternary Operator.deps.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Enhanced if Statement- Ternary Operator\bin\Debug\net5.0\Enhanced if Statement- Ternary Operator.runtimeconfig.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Enhanced if Statement- Ternary Operator\bin\Debug\net5.0\Enhanced if Statement- Ternary Operator.runtimeconfig.dev.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Enhanced if Statement- Ternary Operator\bin\Debug\net5.0\Enhanced if Statement- Ternary Operator.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Enhanced if Statement- Ternary Operator\bin\Debug\net5.0\Enhanced if Statement- Ternary Operator.pdb
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Enhanced if Statement- Ternary Operator\obj\Debug\net5.0\Enhanced if Statement- Ternary Operator.csproj.AssemblyReference.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Enhanced if Statement- Ternary Operator\obj\Debug\net5.0\Enhanced if Statement- Ternary Operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Enhanced if Statement- Ternary Operator\obj\Debug\net5.0\Enhanced if Statement- Ternary Operator.AssemblyInfoInputs.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Enhanced if Statement- Ternary Operator\obj\Debug\net5.0\Enhanced if Statement- Ternary Operator.AssemblyInfo.cs
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Enhanced if Statement- Ternary Operator\obj\Debug\net5.0\Enhanced if Statement- Ternary Operator.csproj.CoreCompileInputs.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Enhanced if Statement- Ternary Operator\obj\Debug\net5.0\Enhanced if Statement- Ternary Operator.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Enhanced if Statement- Ternary Operator\obj\Debug\net5.0\refint\Enhanced if Statement- Ternary Operator.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Enhanced if Statement- Ternary Operator\obj\Debug\net5.0\Enhanced if Statement- Ternary Operator.pdb
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Enhanced if Statement- Ternary Operator\obj\Debug\net5.0\Enhanced if Statement- Ternary Operator.genruntimeconfig.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Enhanced if Statement- Ternary Operator\obj\Debug\net5.0\ref\Enhanced if Statement- Ternary Operator.dll

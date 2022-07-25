@@ -103,10 +103,26 @@ namespace Datatypes_and_Variables
             CharNames(PersonName);
 
 
-            //Console.WriteLine("ASCII of char that you input ({0}) is : {1}", charac, asciinum);
+			//Console.WriteLine("ASCII of char that you input ({0}) is : {1}", charac, asciinum);
 
 			//last:
 
+
+
+			//int i = 0;
+			int LengthofText = 0;
+			string AllNames = " ";
+			do
+            {
+                Console.Write("Enter your name :");
+				string Names_Friend = Console.ReadLine();
+
+				LengthofText = Names_Friend.Length;
+
+				AllNames +=Names_Friend;
+            } while (LengthofText < 10);
+
+            Console.WriteLine("All the name is : {0}\n", AllNames);
 			Console.WriteLine("End\n");
 			 
             Console.Read();

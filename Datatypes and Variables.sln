@@ -17,13 +17,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Oper
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Making Decisions", "Making Decisions\Making Decisions.csproj", "{78BF7FED-662E-4401-A5CB-139EAC7B856E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login System", "Login System\Login System.csproj", "{33251878-13F2-4276-AF59-A3EE739902C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Login System", "Login System\Login System.csproj", "{33251878-13F2-4276-AF59-A3EE739902C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch Case", "Switch Case\Switch Case.csproj", "{AECF2B77-3DB0-4F39-831C-438502A4ABEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Switch Case", "Switch Case\Switch Case.csproj", "{AECF2B77-3DB0-4F39-831C-438502A4ABEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScorePlayers", "ScorePlayers\ScorePlayers.csproj", "{E10F293C-6F7A-455C-8A0E-8907BE0D6B7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScorePlayers", "ScorePlayers\ScorePlayers.csproj", "{E10F293C-6F7A-455C-8A0E-8907BE0D6B7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enhanced if Statement- Ternary Operator", "Enhanced if Statement- Ternary Operator\Enhanced if Statement- Ternary Operator.csproj", "{27EDB87F-3638-41F6-86C0-FB9D9D5C936F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enhanced if Statement- Ternary Operator", "Enhanced if Statement- Ternary Operator\Enhanced if Statement- Ternary Operator.csproj", "{27EDB87F-3638-41F6-86C0-FB9D9D5C936F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Loops\Loops.csproj", "{2CA46C7F-7D98-41F0-9788-F419F8857903}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object Oriented Programming", "Object Oriented Programming\Object Oriented Programming.csproj", "{8FD44615-D820-4D37-981D-550A52E5A627}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{27EDB87F-3638-41F6-86C0-FB9D9D5C936F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27EDB87F-3638-41F6-86C0-FB9D9D5C936F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27EDB87F-3638-41F6-86C0-FB9D9D5C936F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CA46C7F-7D98-41F0-9788-F419F8857903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CA46C7F-7D98-41F0-9788-F419F8857903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CA46C7F-7D98-41F0-9788-F419F8857903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CA46C7F-7D98-41F0-9788-F419F8857903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FD44615-D820-4D37-981D-550A52E5A627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD44615-D820-4D37-981D-550A52E5A627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD44615-D820-4D37-981D-550A52E5A627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD44615-D820-4D37-981D-550A52E5A627}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
