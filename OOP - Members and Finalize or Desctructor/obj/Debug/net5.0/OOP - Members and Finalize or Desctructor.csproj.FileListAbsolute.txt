@@ -1,0 +1,16 @@
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP - Members and Finalize or Desctructor\bin\Debug\net5.0\OOP - Members and Finalize or Desctructor.exe
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP - Members and Finalize or Desctructor\bin\Debug\net5.0\OOP - Members and Finalize or Desctructor.deps.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP - Members and Finalize or Desctructor\bin\Debug\net5.0\OOP - Members and Finalize or Desctructor.runtimeconfig.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP - Members and Finalize or Desctructor\bin\Debug\net5.0\OOP - Members and Finalize or Desctructor.runtimeconfig.dev.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP - Members and Finalize or Desctructor\bin\Debug\net5.0\OOP - Members and Finalize or Desctructor.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP - Members and Finalize or Desctructor\bin\Debug\net5.0\OOP - Members and Finalize or Desctructor.pdb
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP - Members and Finalize or Desctructor\obj\Debug\net5.0\OOP - Members and Finalize or Desctructor.csproj.AssemblyReference.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP - Members and Finalize or Desctructor\obj\Debug\net5.0\OOP - Members and Finalize or Desctructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP - Members and Finalize or Desctructor\obj\Debug\net5.0\OOP - Members and Finalize or Desctructor.AssemblyInfoInputs.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP - Members and Finalize or Desctructor\obj\Debug\net5.0\OOP - Members and Finalize or Desctructor.AssemblyInfo.cs
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP - Members and Finalize or Desctructor\obj\Debug\net5.0\OOP - Members and Finalize or Desctructor.csproj.CoreCompileInputs.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP - Members and Finalize or Desctructor\obj\Debug\net5.0\OOP - Members and Finalize or Desctructor.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP - Members and Finalize or Desctructor\obj\Debug\net5.0\refint\OOP - Members and Finalize or Desctructor.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP - Members and Finalize or Desctructor\obj\Debug\net5.0\OOP - Members and Finalize or Desctructor.pdb
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP - Members and Finalize or Desctructor\obj\Debug\net5.0\OOP - Members and Finalize or Desctructor.genruntimeconfig.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP - Members and Finalize or Desctructor\obj\Debug\net5.0\ref\OOP - Members and Finalize or Desctructor.dll

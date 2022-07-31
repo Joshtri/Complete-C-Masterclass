@@ -1,0 +1,16 @@
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Object Oriented Programming\bin\Debug\net5.0\Object Oriented Programming.exe
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Object Oriented Programming\bin\Debug\net5.0\Object Oriented Programming.deps.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Object Oriented Programming\bin\Debug\net5.0\Object Oriented Programming.runtimeconfig.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Object Oriented Programming\bin\Debug\net5.0\Object Oriented Programming.runtimeconfig.dev.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Object Oriented Programming\bin\Debug\net5.0\Object Oriented Programming.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Object Oriented Programming\bin\Debug\net5.0\Object Oriented Programming.pdb
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Object Oriented Programming\obj\Debug\net5.0\Object Oriented Programming.csproj.AssemblyReference.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Object Oriented Programming\obj\Debug\net5.0\Object Oriented Programming.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Object Oriented Programming\obj\Debug\net5.0\Object Oriented Programming.AssemblyInfoInputs.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Object Oriented Programming\obj\Debug\net5.0\Object Oriented Programming.AssemblyInfo.cs
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Object Oriented Programming\obj\Debug\net5.0\Object Oriented Programming.csproj.CoreCompileInputs.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Object Oriented Programming\obj\Debug\net5.0\Object Oriented Programming.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Object Oriented Programming\obj\Debug\net5.0\refint\Object Oriented Programming.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Object Oriented Programming\obj\Debug\net5.0\Object Oriented Programming.pdb
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Object Oriented Programming\obj\Debug\net5.0\Object Oriented Programming.genruntimeconfig.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Object Oriented Programming\obj\Debug\net5.0\ref\Object Oriented Programming.dll

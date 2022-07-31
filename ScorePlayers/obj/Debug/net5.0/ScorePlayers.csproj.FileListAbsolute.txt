@@ -1,0 +1,16 @@
+D:\Code\Complete C# Masterclass\Datatypes and Variables\ScorePlayers\bin\Debug\net5.0\ScorePlayers.exe
+D:\Code\Complete C# Masterclass\Datatypes and Variables\ScorePlayers\bin\Debug\net5.0\ScorePlayers.deps.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\ScorePlayers\bin\Debug\net5.0\ScorePlayers.runtimeconfig.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\ScorePlayers\bin\Debug\net5.0\ScorePlayers.runtimeconfig.dev.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\ScorePlayers\bin\Debug\net5.0\ScorePlayers.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\ScorePlayers\bin\Debug\net5.0\ScorePlayers.pdb
+D:\Code\Complete C# Masterclass\Datatypes and Variables\ScorePlayers\obj\Debug\net5.0\ScorePlayers.csproj.AssemblyReference.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\ScorePlayers\obj\Debug\net5.0\ScorePlayers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Complete C# Masterclass\Datatypes and Variables\ScorePlayers\obj\Debug\net5.0\ScorePlayers.AssemblyInfoInputs.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\ScorePlayers\obj\Debug\net5.0\ScorePlayers.AssemblyInfo.cs
+D:\Code\Complete C# Masterclass\Datatypes and Variables\ScorePlayers\obj\Debug\net5.0\ScorePlayers.csproj.CoreCompileInputs.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\ScorePlayers\obj\Debug\net5.0\ScorePlayers.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\ScorePlayers\obj\Debug\net5.0\refint\ScorePlayers.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\ScorePlayers\obj\Debug\net5.0\ScorePlayers.pdb
+D:\Code\Complete C# Masterclass\Datatypes and Variables\ScorePlayers\obj\Debug\net5.0\ScorePlayers.genruntimeconfig.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\ScorePlayers\obj\Debug\net5.0\ref\ScorePlayers.dll

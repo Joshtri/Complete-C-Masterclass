@@ -1,0 +1,16 @@
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP- Properties part 1\bin\Debug\net5.0\OOP- Properties part 1.exe
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP- Properties part 1\bin\Debug\net5.0\OOP- Properties part 1.deps.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP- Properties part 1\bin\Debug\net5.0\OOP- Properties part 1.runtimeconfig.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP- Properties part 1\bin\Debug\net5.0\OOP- Properties part 1.runtimeconfig.dev.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP- Properties part 1\bin\Debug\net5.0\OOP- Properties part 1.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP- Properties part 1\bin\Debug\net5.0\OOP- Properties part 1.pdb
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP- Properties part 1\obj\Debug\net5.0\OOP- Properties part 1.csproj.AssemblyReference.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP- Properties part 1\obj\Debug\net5.0\OOP- Properties part 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP- Properties part 1\obj\Debug\net5.0\OOP- Properties part 1.AssemblyInfoInputs.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP- Properties part 1\obj\Debug\net5.0\OOP- Properties part 1.AssemblyInfo.cs
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP- Properties part 1\obj\Debug\net5.0\OOP- Properties part 1.csproj.CoreCompileInputs.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP- Properties part 1\obj\Debug\net5.0\OOP- Properties part 1.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP- Properties part 1\obj\Debug\net5.0\refint\OOP- Properties part 1.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP- Properties part 1\obj\Debug\net5.0\OOP- Properties part 1.pdb
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP- Properties part 1\obj\Debug\net5.0\OOP- Properties part 1.genruntimeconfig.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\OOP- Properties part 1\obj\Debug\net5.0\ref\OOP- Properties part 1.dll

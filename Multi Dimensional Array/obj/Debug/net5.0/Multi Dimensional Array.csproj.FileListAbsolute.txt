@@ -1,0 +1,16 @@
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Multi Dimensional Array\bin\Debug\net5.0\Multi Dimensional Array.exe
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Multi Dimensional Array\bin\Debug\net5.0\Multi Dimensional Array.deps.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Multi Dimensional Array\bin\Debug\net5.0\Multi Dimensional Array.runtimeconfig.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Multi Dimensional Array\bin\Debug\net5.0\Multi Dimensional Array.runtimeconfig.dev.json
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Multi Dimensional Array\bin\Debug\net5.0\Multi Dimensional Array.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Multi Dimensional Array\bin\Debug\net5.0\Multi Dimensional Array.pdb
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Multi Dimensional Array\obj\Debug\net5.0\Multi Dimensional Array.csproj.AssemblyReference.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Multi Dimensional Array\obj\Debug\net5.0\Multi Dimensional Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Multi Dimensional Array\obj\Debug\net5.0\Multi Dimensional Array.AssemblyInfoInputs.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Multi Dimensional Array\obj\Debug\net5.0\Multi Dimensional Array.AssemblyInfo.cs
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Multi Dimensional Array\obj\Debug\net5.0\Multi Dimensional Array.csproj.CoreCompileInputs.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Multi Dimensional Array\obj\Debug\net5.0\Multi Dimensional Array.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Multi Dimensional Array\obj\Debug\net5.0\refint\Multi Dimensional Array.dll
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Multi Dimensional Array\obj\Debug\net5.0\Multi Dimensional Array.pdb
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Multi Dimensional Array\obj\Debug\net5.0\Multi Dimensional Array.genruntimeconfig.cache
+D:\Code\Complete C# Masterclass\Datatypes and Variables\Multi Dimensional Array\obj\Debug\net5.0\ref\Multi Dimensional Array.dll
